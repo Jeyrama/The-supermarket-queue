@@ -45,3 +45,5 @@ function queueTime(customers, registers) {
 
   return arr[arr.length - 1];
 }
+
+// or
